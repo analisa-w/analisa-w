@@ -1,4 +1,14 @@
-## Hi there 👋
+### Hi, I'm Analisa 👋
+
+I'm a rising senior at Columbia Engineering majoring in Computer Science. I'm passionate about software engineering, AI/ML, and building things that make people’s lives better.
+
+🔧 **Projects**
+- 🧠 [Exposure Triangle App](https://github.com/analisa-w/exposure-triangle) – A quiz-based web app to help students learn photography settings.
+- 🌐 [Product Trace]– A blockchain-powered registry system for authenticating and tracking ownership of luxury designer handbags.
+- 🥂 [Buzzing]- Collaborative iOS app for real-time location-based event sharing. Built in Swift with MapKit and peer-based updates. 
+
+📫 Let’s connect on [LinkedIn](www.linkedin.com/in/analisa-wood)!
+
 
 <!--
 **analisa-w/analisa-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
